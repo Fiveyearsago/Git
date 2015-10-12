@@ -8,5 +8,5 @@ import android.support.v4.app.ListFragment;
  * GitHub: LittleCat
  */
 public class DataFragment extends ListFragment {
-    
+
 }
